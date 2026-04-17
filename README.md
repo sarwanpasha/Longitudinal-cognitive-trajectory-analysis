@@ -215,7 +215,7 @@ If you use this toolkit in your research, please cite it as:
 
 ```
 Longitudinal Cognitive Trajectory Analysis Toolkit (2025).
-GitHub: [https://github.com/your-username/longitudinal-cognitive-trajectory-analysis](https://github.com/sarwanpasha/Longitudinal-cognitive-trajectory-analysis)
+GitHub: https://github.com/sarwanpasha/Longitudinal-cognitive-trajectory-analysis
 ```
 
 ---
